@@ -1,0 +1,9 @@
+@import url('./slider.css');
+
+.wp-block-mc-custom-block-mc-post-fetcher * {
+    box-sizing: border-box;
+}
+
+.wp-block-mc-custom-block-mc-post-fetcher {
+  position: relative;
+}
